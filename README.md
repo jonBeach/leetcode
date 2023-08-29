@@ -1,2 +1,4 @@
 # leetcode
-Collection of leetcode problems I have completed
+Collection Of Leetcode Problems I Have Completed
+
+I am also using this to learn git
