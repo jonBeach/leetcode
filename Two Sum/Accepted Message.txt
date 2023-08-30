@@ -1,0 +1,34 @@
+Accepted
+
+Runtime
+Details
+2157ms
+Beats 44.36%of users with Python
+Memory
+Details
+14.14MB
+Beats 63.71%of users with Python
+
+Status
+
+Language
+Runtime
+Memory
+Time
+Notes
+
+Accepted
+Python
+2157 ms
+14.1 MB
+a few seconds ago
+Wrong Answer
+Python
+N/A
+N/A
+9 minutes ago
+Wrong Answer
+Python
+N/A
+N/A
+20 minutes ago
