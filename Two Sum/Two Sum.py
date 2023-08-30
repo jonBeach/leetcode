@@ -1,6 +1,5 @@
 class Solution(object):
     def twoSum(self, nums, target):
-    
         #iterate through all the numbers
         #by count up to the number of numbers in nums array starting at 0
         for i in range(len(nums)):
