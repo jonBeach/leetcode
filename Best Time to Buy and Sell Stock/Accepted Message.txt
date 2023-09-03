@@ -1,0 +1,87 @@
+Accepted
+
+Runtime
+Details
+715ms
+Beats 96.92%of users with Python
+Memory
+Details
+22.23MB
+Beats 97.80%of users with Python
+More challenges
+53. Maximum Subarray
+122. Best Time to Buy and Sell Stock II
+123. Best Time to Buy and Sell Stock III
+
+Status
+
+Language
+Runtime
+Memory
+Notes
+
+Accepted
+a few seconds ago
+Python
+715 ms
+22.2 MB
+Accepted
+a few seconds ago
+Python
+751 ms
+22.4 MB
+Wrong Answer
+a few seconds ago
+Python
+N/A
+N/A
+Wrong Answer
+3 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+3 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+4 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+4 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+5 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+6 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+7 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+8 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+9 minutes ago
+Python
+N/A
+N/A
+Wrong Answer
+10 minutes ago
+Python
+N/A
+N/A
